@@ -22,7 +22,7 @@
 //#define ATARI_2_BUTTONS true
 
 //Debounce time. Increase if one joystick movement triggers more then one action.
-// 40 is a good value for the new Competition Pro
+// 40 should be a good value for the new Competition Pro
 // 60 should work for older gamepads
 #define DEBOUNCE_TIME 40
 
@@ -35,8 +35,8 @@
     Tested: Asteroids(A), Centipede(A), Asteroids Deluxe(A), Space Duel(A)
  3: 2 Buttons Game
     Tested: Liberator(A), Mayor Havoc(A)
- 4: Asteroids
-    Tested: Asteroids(A)
+ 4: Missle Command
+    Tested: Missle Command(A)
  5: Battlezone
     Tested: Battlezone(A)
  6: Debug mapping: Even the joystick is mapped to buttons, so every button can be tested
