@@ -1,0 +1,5 @@
+You allways wanted to connect your Competition Pro to your iPad? Now you can!
+
+Connect "every" joystick to your iPad with the open source iCabinet platform. It uses the protocol of the iCade, so you can play all games with it the iCade supports (depends on the number of buttons on your controller).
+
+It runs on a Atmel controller with buildin USB like the ATMEGA32U4 or the AT90USB162, so the Teensy is your number one choice.

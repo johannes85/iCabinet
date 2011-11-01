@@ -1,0 +1,14 @@
+Compatible devices
+
+Development USB AT90USB162 
+Shop: http://stores.ebay.de/SR-Tronic-GmbH-Dortmund
+Shop: http://www.srt-versand.de/elektronische-bauelementegeraete/development-usb-stick-at90usb162.html
+
+Teensy USB
+http://www.pjrc.com/teensy/
+
+Atmega32u4 Breakout Board+
+http://ladyada.net/products/atmega32u4breakout/
+Shop: http://www.adafruit.com/products/296
+Shop: http://www.watterott.com/de/Atmega32u4-Breakout-Board
+
