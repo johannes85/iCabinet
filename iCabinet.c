@@ -19,7 +19,7 @@
 #include "usb_keyboard.h"
 
 //Enables the usage of atari 7800 controllers. See documentation! 
-#define ATARI_2_BUTTONS true
+//#define ATARI_2_BUTTONS true
 
 //Debounce time. Increase if one joystick movement triggers more then one action.
 // 40 is a good value for the new Competition Pro
